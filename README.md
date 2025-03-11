@@ -24,8 +24,7 @@ RECORD:
 [lemonadeScreenRecord.webm](https://github.com/user-attachments/assets/3055e86b-5fd1-4f75-a9c3-de5505c5a25b)
 
 SCREENSHOTS:
-
-![LemonadeMainScreen](https://github.com/user-attachments/assets/571c5b37-0c77-4a0c-a054-d817605e6b6f)
+<img src="(https://github.com/user-attachments/assets/571c5b37-0c77-4a0c-a054-d817605e6b6f)" width="500">
 
 ![Screenshot_20250311_152402](https://github.com/user-attachments/assets/2ab7fc0c-1e0f-4434-9e63-346445441f83)
 
