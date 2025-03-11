@@ -30,7 +30,6 @@ SCREENSHOTS:
 | <img src="https://github.com/user-attachments/assets/571c5b37-0c77-4a0c-a054-d817605e6b6f" width="300"> | <img src="https://github.com/user-attachments/assets/2ab7fc0c-1e0f-4434-9e63-346445441f83" width="300"> | <img src="https://github.com/user-attachments/assets/1935231f-2eea-42f7-85c9-4ee2c9e80181" width="300"> | <img src="https://github.com/user-attachments/assets/fdca5ec8-8303-4c8a-a8ca-61261cfd61d8" width="300"> |
 
 
-
 [TR]
 🍋 Lemonade App
 Lemonade App, basit bir Compose uygulaması olarak tasarlandı! Kullanıcılara dijital limonata yapma deneyimi sunuyor. Sadece birkaç dokunuşla: limon seç, sık, limonatayı iç ve yeniden başla!
@@ -56,11 +55,7 @@ EKRAN KAYDI:
 
 EKRAN GÖRÜNTÜLERİ
 
-![LemonadeMainScreen](https://github.com/user-attachments/assets/571c5b37-0c77-4a0c-a054-d817605e6b6f)
-
-![Screenshot_20250311_152402](https://github.com/user-attachments/assets/2ab7fc0c-1e0f-4434-9e63-346445441f83)
-
-![Screenshot_20250311_152417](https://github.com/user-attachments/assets/1935231f-2eea-42f7-85c9-4ee2c9e80181)
-
-![Screenshot_20250311_152426](https://github.com/user-attachments/assets/fdca5ec8-8303-4c8a-a8ca-61261cfd61d8)
+| | | | |
+|-|-|-|-|
+| <img src="https://github.com/user-attachments/assets/571c5b37-0c77-4a0c-a054-d817605e6b6f" width="300"> | <img src="https://github.com/user-attachments/assets/2ab7fc0c-1e0f-4434-9e63-346445441f83" width="300"> | <img src="https://github.com/user-attachments/assets/1935231f-2eea-42f7-85c9-4ee2c9e80181" width="300"> | <img src="https://github.com/user-attachments/assets/fdca5ec8-8303-4c8a-a8ca-61261cfd61d8" width="300"> |
 
